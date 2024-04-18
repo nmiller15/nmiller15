@@ -25,7 +25,7 @@ Starting with the basics of building websites, HTML and CSS, this certification 
 "The preferred certification for technical support and IT operational roles."
 
 ## Got any repos?
-I'm learning as much as I possibly can right now, and I'm loving it! I'll be adding  You can also keep up with me at my website [nolanmiller.me](nolanmiller.me). Blog launching soon!
+I'm learning as much as I possibly can right now, and I'm loving it! You can also keep up with me at my website [nolanmiller.me](nolanmiller.me). Blog launching soon!
 + [codecademy-notes](https://github.com/nmiller15/codecademy-notes)
 + [nolanMillerPortfolio](https://github.com/nmiller15/nolanMillerPortfolio)
 + [bottleneck-reddit-client](https://github.com/nmiller15/bottleneck-reddit-client)
