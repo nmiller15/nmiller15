@@ -1,4 +1,4 @@
-# Hi! Thanks for visiting my GitHub. 👋
+# Hi! Thanks for visiting my GitHub Profile. 👋
 
 I'm Nolan, and I've been a tech-focused person for my whole life, whether it was poking around with old gaming systems, trying to clear viruses off of my parents computer, or just teaching myself some of the latest technology. I'm currently contracting at Goodyear in Akron, OH supporting Point of Sale systems for the North American Retail network.
 
@@ -14,10 +14,10 @@ I'm Nolan, and I've been a tech-focused person for my whole life, whether it was
 Starting with the basics of building websites, HTML and CSS, this certification covers popular front-end frameworks and back-end technologies and then ties them together. Codecademy not only teaches you how to write code that gets the job done, but prioritises concepts like readability, maintainability, accessibility, and separation of concerns.
 
 + 💻 HTML, CSS, JS - Responsive, Accessible, and Interactive Design
-+ 🐱‍👤 Git & GitHub - Version Control and Collaboration
-+ ⚛ React & Redux - The Web App Power Couple
-+ ❇ Node.js - Breaking JS out of the browser
-+ 🚆 Express.js - Building your own back-end
++ 🐈‍⬛ Git & GitHub - Version Control and Collaboration
++ ⚛️ React & Redux - The Web App Power Couple
++ ✳️ Node.js - Breaking JS out of the browser
++ 🚂 Express.js - Building your own back-end
 + 🐘 PostgreSQL - Because we all need databases
 + 🕺 Swagger, OpenAPI - Querying your own APIs
 
