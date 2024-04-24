@@ -3,10 +3,10 @@
 I'm Nolan, and I've been a tech-focused person for my whole life, whether it was poking around with old gaming systems, trying to clear viruses off of my parents computer, or just teaching myself some of the latest technology. I'm currently contracting at Goodyear in Akron, OH supporting Point of Sale systems for the North American Retail network.
 
 ## Some things you should know about me
-+ ✝ I love Jesus, and would love to talk to you about it
-+ 🎵 I majored in trombone in college, so jazz is the preferred coding playlist
++ ✝️ I love Jesus, and would love to talk to you about it
++ 🎶 I majored in trombone in college, so jazz is the preferred coding playlist
 + ☕ I roast my own coffee
-+ 👩‍💻 I'm currently pivoting into a career in tech!
++ 💻 I'm currently pivoting into a career in tech!
 
 ## What I'm Learning
 
