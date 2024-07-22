@@ -21,16 +21,7 @@ Starting with the basics of building websites, HTML and CSS, this certification 
 + 🐘 PostgreSQL - Because we all need databases
 + 🕺 Swagger, OpenAPI - Querying your own APIs
 
-### *CompTIA A+ Certification*
-"The preferred certification for technical support and IT operational roles."
 
-## Got any repos?
-I'm learning as much as I possibly can right now, and I'm loving it! You can also keep up with me at my website [nolanmiller.me](nolanmiller.me). Blog launching soon!
-+ [codecademy-notes](https://github.com/nmiller15/codecademy-notes)
-+ [nolanMillerPortfolio](https://github.com/nmiller15/nolanMillerPortfolio)
-+ [bottleneck-reddit-client](https://github.com/nmiller15/bottleneck-reddit-client)
-+ [mixedMessages](https://github.com/nmiller15/mixedMessages)
-+ [schoolCatalogue](https://github.com/nmiller15/schoolCatalogue)
 
 <!---
 nmiller15/nmiller15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
