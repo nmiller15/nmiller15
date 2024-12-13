@@ -1,6 +1,6 @@
 # Hi! Thanks for visiting my GitHub Profile. 👋
 
-I'm Nolan, and I've been a tech-focused person for my whole life, whether it was poking around with old gaming systems, trying to clear viruses off of my parents computer, or just teaching myself some of the latest technology. I'm currently contracting at Goodyear in Akron, OH supporting Point of Sale systems for the North American Retail network.
+I'm Nolan, and I've been a tech-focused person for my whole life, whether it was poking around with old gaming systems, trying to clear viruses off of my parents computer, or just teaching myself some of the latest technology. I'm currently a .NET developer in Wooster, OH learning as much as I can!
 
 ## Some things you should know about me
 + ✝️ I love Jesus, and would love to talk to you about it
